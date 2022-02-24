@@ -19,7 +19,6 @@ done
 
 echo "Head count:" $head_count
 echo "Tail count:" $tail_count
-echo "Tie count:" $tie_count
 
 if(( $head_count > $tail_count ))
 then
